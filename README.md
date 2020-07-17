@@ -21,3 +21,7 @@ python drive.py model3.h5
 ```
 python drive.py model3_icep.h5
 ```
+### Demo
+[Comparision between Nvidia model and Modified Nvidia model](https://drive.google.com/file/d/1v036gNaHeRXtljbjS247wi8id8HhKHrU/view?usp=sharing)
+* The upper is the original Nvidia model
+* The lower is the modified Nvidia model
